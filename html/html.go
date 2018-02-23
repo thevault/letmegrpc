@@ -28,7 +28,7 @@ package html
 import (
 	"strings"
 
-	"github.com/gogo/letmegrpc/form"
+	"github.com/thevault/letmegrpc/form"
 	descriptor "github.com/gogo/protobuf/protoc-gen-gogo/descriptor"
 	"github.com/gogo/protobuf/protoc-gen-gogo/generator"
 )
