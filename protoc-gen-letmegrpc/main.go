@@ -30,7 +30,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/gogo/letmegrpc/html"
+	"github.com/thevault/letmegrpc/html"
 	"github.com/gogo/protobuf/proto"
 	"github.com/gogo/protobuf/protoc-gen-gogo/generator"
 )
